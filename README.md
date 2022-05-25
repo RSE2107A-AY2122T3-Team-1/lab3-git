@@ -2,6 +2,10 @@
 Zofia 
 what you expect to learn from this course? To have better understanding and learn something new. 
 
+satish
+i want to learn ros
+yay
+
 Timothy Lee
 What to expect from this course? Have fun learning.
 
